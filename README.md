@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waeiski and doctoral researcher at University of Helsinki 
+- 👋 Hi, I’m @waeiski a doctoral researcher at University of Helsinki 
 - 👀 I’m interested in spatial analysis and cartography with Python
 - 🌱 I’m currently learning Python and git
 - 💞️ I’m looking to collaborate on Python stuff and probably translations to Finnish.
