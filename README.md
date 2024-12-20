@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more Python and workflows regarding mobility analytics and machine learning.
 - 🔮 I want to learn R, Rust, DuckDB, web GIS, and full geospatial development stack.
 - 💞️ I’m looking to collaborate on Python stuff and probably translations to Finnish.
-- 📫 How to reach me: waeiski on Mastodon (vis.social) and Twitter 
+- 📫 How to reach me: waeiski on Mastodon (vis.social), Bluesky, and Twitter 
 
 <!---
 waeiski/waeiski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
